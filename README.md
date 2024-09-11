@@ -14,7 +14,7 @@ You will need the following:
 
 ## Installation
 * Set up the Database
-Import the provided database file into phpMyAdmin.
+Import the provided database file into phpMyAdmin.(go to Database folder u gonna find all the instructions)
 
 * Build the Project
 Use your Java IDE to build the project.
@@ -27,7 +27,7 @@ src/main/java/com/gpr/project_gpr: Contains all the Java classes and controllers
 Project_gpr/target: Contains all the compiled interfaces and FXML files.
 
 ## Documentation 
-You can find the Project documentation in the Doc folder
+You can find the Project documentation in the Documentation folder (in french)
 
 ## Contact 
 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/khalil-zouhir-92382b236
