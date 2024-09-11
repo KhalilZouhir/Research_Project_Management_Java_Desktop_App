@@ -17,6 +17,9 @@ You will need the following:
 * Set up the Database
 Import the provided database file into phpMyAdmin(go to Database folder u gonna find all the instructions)
 
+* import connector
+Import the mysql connector in the project
+
 * Build the Project
 Use your Java IDE to build the project.
 
