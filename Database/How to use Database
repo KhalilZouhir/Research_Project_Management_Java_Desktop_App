@@ -1,0 +1,24 @@
+Purpose of gestionprojet.sql :
+The gestionprojet.sql file contains the SQL schema and initial data for the gestionprojet database. It includes the creation of tables, insertion of sample data, and definitions for foreign key constraints. This file is essential for setting up the database structure and populating it with initial data necessary for the gestionprojet application.
+
+Usage Instructions in phpMyAdmin (XAMPP):
+1-Open XAMPP Control Panel: Start the Apache and MySQL services.
+
+2-Access phpMyAdmin: Open a web browser and navigate to http://localhost/phpmyadmin.
+
+3- Create a Database:
+
+* In phpMyAdmin, go to the "Databases" tab.
+* Enter gestionprojet as the database name.
+* Click "Create" to create the database.
+
+4-Import the SQL File:
+
+* Select the gestionprojet database from the left sidebar.
+* Go to the "Import" tab.
+* Click "Choose File" and select the gestionprojet.sql file from your local directory.
+* Click "Go" to start the import process.
+
+5-Verify:
+
+* After import, verify that all tables and data are correctly loaded by checking the database structure and sample data in phpMyAdmin.
