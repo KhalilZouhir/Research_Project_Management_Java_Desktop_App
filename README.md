@@ -14,7 +14,7 @@ You will need the following:
 
 ## Installation
 * Set up the Database
-Import the provided database file into phpMyAdmin.(go to Database folder u gonna find all the instructions)
+Import the provided database file into phpMyAdmin(go to Database folder u gonna find all the instructions)
 
 * Build the Project
 Use your Java IDE to build the project.
