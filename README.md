@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fc1ff3cb-7aab-4194-a4ed-215dd3b3ce21)
 # Research Project Management Java Desktop App
 This project is a Java desktop application for managing research projects. It offers features for organizing, tracking, and overseeing research activities through an intuitive JavaFX interface. The application integrates with a database for efficient data management.
 
