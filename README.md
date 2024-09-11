@@ -14,17 +14,13 @@ You will need the following:
 * mysql connector (check connector folder)
 
 ## Installation
-* Set up the Database
-Import the provided database file into phpMyAdmin(go to Database folder u gonna find all the instructions)
+* Import the provided database file into phpMyAdmin(go to Database folder u gonna find all the instructions)
 
-* import connector
-Import the mysql connector in the project
+* Import the mysql connector in the project
 
-* Build the Project
-Use your Java IDE to build the project.
+* Use your IDE to build the project.
 
-* Run the Application
-Execute the HelloApplication class located in com.gpr.project_gpr.
+* Execute the HelloApplication class located in com.gpr.project_gpr.
 
 ## Project Structure
 src/main/java/com/gpr/project_gpr: Contains all the Java classes and controllers.
