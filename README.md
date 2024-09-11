@@ -10,7 +10,8 @@ You will need the following:
 * IntelliJ IDEA
 * phpMyAdmin (for database management)
 * JavaFX with Maven
-* JAVA 19.0.0
+* JAVA 19
+* mysql connector (check connector folder)
 
 ## Installation
 * Set up the Database
